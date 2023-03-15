@@ -1,0 +1,8 @@
+RENCANA KARIR
+
+-BLAJAR HTML
+-CSS
+-JS
+-reactjs
+-framework
+-sql
